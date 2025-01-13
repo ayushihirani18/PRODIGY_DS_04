@@ -14,11 +14,12 @@ This project performs sentiment analysis on Twitter data, exploring entity-speci
   - Entity-specific sentiment comparison.
 
 ## Dataset
-The dataset used is `twitter_training.csv`, which contains:
+The dataset used is `twitter_training.csv, which contains:
 - `Id`: Unique identifier for each tweet.
 - `Entity`: The entity mentioned in the tweet.
 - `Sentiment`: The sentiment expressed (`Positive`, `Negative`, etc.).
 - `Tweet`: The actual text of the tweet.
+- Dataset:https://www.kaggle.com/datasets/jp797498e/twitter-entity-sentiment-analysis
 
 ## Prerequisites
 - Python 3.x
